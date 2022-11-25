@@ -1,1 +1,0 @@
-importScripts('https://wpn.mydialoginsight.com/T/OFC4/WPS/17265718/118/FXzb1EjhmBRs2E9USLgyxVuj9ltPehxu/DI.WebPush-sw-lib.js');
